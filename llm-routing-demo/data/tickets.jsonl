@@ -1,0 +1,50 @@
+{"id": "t01", "input": "I was charged twice for my March invoice, please refund one of them.", "expected": "billing"}
+{"id": "t02", "input": "The export to CSV button does nothing in Firefox.", "expected": "bug"}
+{"id": "t03", "input": "I can't log in, the reset password email never arrives.", "expected": "account"}
+{"id": "t04", "input": "It would be great to have a dark mode for the mobile app.", "expected": "feature_request"}
+{"id": "t05", "input": "Do you have an office in Berlin we could visit?", "expected": "other"}
+{"id": "t06", "input": "Why did my plan price go up from 29 to 39 this month?", "expected": "billing"}
+{"id": "t07", "input": "App crashes when I upload a PNG larger than 5 MB.", "expected": "bug"}
+{"id": "t08", "input": "How do I change the email address on my account?", "expected": "account"}
+{"id": "t09", "input": "Please add an API endpoint to bulk update records.", "expected": "feature_request"}
+{"id": "t10", "input": "Who should I talk to about a partnership?", "expected": "other"}
+{"id": "t11", "input": "Can I get a receipt with our company VAT number on it?", "expected": "billing"}
+{"id": "t12", "input": "Dashboard charts show yesterday's data even after refresh.", "expected": "bug"}
+{"id": "t13", "input": "Please delete my account and all my data.", "expected": "account"}
+{"id": "t14", "input": "Could you support exporting reports as PDF?", "expected": "feature_request"}
+{"id": "t15", "input": "Great product, just wanted to say thanks to the team!", "expected": "other"}
+{"id": "t16", "input": "My card was declined but the money still left my account.", "expected": "billing"}
+{"id": "t17", "input": "Search returns no results for names with an apostrophe like O'Brien.", "expected": "bug"}
+{"id": "t18", "input": "My two-factor phone is lost, how do I get back in?", "expected": "account"}
+{"id": "t19", "input": "We would love Slack notifications when a task is assigned.", "expected": "feature_request"}
+{"id": "t20", "input": "Do you have a public status page or newsletter I can follow for product news?", "expected": "other"}
+{"id": "t21", "input": "How do I switch from monthly to yearly billing to get the discount?", "expected": "billing"}
+{"id": "t22", "input": "Dark mode makes the error messages unreadable, white text on white.", "expected": "bug"}
+{"id": "t23", "input": "Can I transfer workspace ownership to a colleague?", "expected": "account"}
+{"id": "t24", "input": "Any plans to support Spanish in the interface?", "expected": "feature_request"}
+{"id": "t25", "input": "Are you hiring for remote support roles?", "expected": "other"}
+{"id": "t26", "input": "We cancelled last week but were billed again today.", "expected": "billing"}
+{"id": "t27", "input": "Notifications arrive twice on Android since the last update.", "expected": "bug"}
+{"id": "t28", "input": "I get 'account locked' after one wrong password.", "expected": "account"}
+{"id": "t29", "input": "Please let us set custom fields on contacts.", "expected": "feature_request"}
+{"id": "t30", "input": "Where can I find your security and compliance documents?", "expected": "other"}
+{"id": "t31", "input": "The invoice shows 12 seats, we only have 8 users.", "expected": "billing"}
+{"id": "t32", "input": "Saving a draft logs me out and loses the text.", "expected": "bug"}
+{"id": "t33", "input": "How do I add a second admin to our team?", "expected": "account"}
+{"id": "t34", "input": "Can you add keyboard shortcuts for the editor?", "expected": "feature_request"}
+{"id": "t35", "input": "Can I speak at your user conference next year?", "expected": "other"}
+{"id": "t36", "input": "Do you accept bank transfer instead of credit card?", "expected": "billing"}
+{"id": "t37", "input": "The date picker skips February 29.", "expected": "bug"}
+{"id": "t38", "input": "I want to merge my two accounts into one.", "expected": "account"}
+{"id": "t39", "input": "We need a way to schedule reports to be emailed weekly.", "expected": "feature_request"}
+{"id": "t40", "input": "What is your company's mailing address for legal notices?", "expected": "other"}
+{"id": "t41", "input": "I need a refund for the unused months after downgrading.", "expected": "billing"}
+{"id": "t42", "input": "Webhook calls fail with a 500 error since this morning.", "expected": "bug"}
+{"id": "t43", "input": "My username shows the old company name, how do I rename it?", "expected": "account"}
+{"id": "t44", "input": "Would be nice to filter the dashboard by team.", "expected": "feature_request"}
+{"id": "t45", "input": "Do you have a status page I can subscribe to?", "expected": "other"}
+{"id": "t46", "input": "The promo code SPRING20 was not applied at checkout.", "expected": "billing"}
+{"id": "t47", "input": "Page freezes when a table has more than 1000 rows.", "expected": "bug"}
+{"id": "t48", "input": "How do I transfer ownership of my account to a colleague who is taking over?", "expected": "account"}
+{"id": "t49", "input": "Please add an audit log for admin actions.", "expected": "feature_request"}
+{"id": "t50", "input": "How long have you been in business?", "expected": "other"}

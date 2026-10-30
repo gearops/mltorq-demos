@@ -1,0 +1,9 @@
+# Ticket router prompt v3: a BAD change. Someone "simplified" the prompt: dropped most billing and bug phrases
+# and added a very broad word to feature_request, so a chunk of tickets go to the wrong team.
+# SYSTEM: You are a support-ticket router. Reply with exactly one label.
+# Each line is  label: phrases that point to it  (a phrase must match whole words).
+feature_request: please add, would love, feature, support for, dark mode, wish, export, page
+billing: invoice, charged
+bug_report: crash, crashes, bug
+account_access: password, login, locked, two factor
+default: other

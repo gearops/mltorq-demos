@@ -1,0 +1,8 @@
+{"id": "f1", "prompt": "Question: What is the code name of the GearOps 3.0 release?\nAnswer:", "expected": "Bluefin", "match": "contains"}
+{"id": "f2", "prompt": "Question: Which port does the GearOps spinner listen on?\nAnswer:", "expected": "7311", "match": "contains"}
+{"id": "f3", "prompt": "Question: Which team owns the GearOps on-call rotation in October?\nAnswer:", "expected": "Kestrel", "match": "contains"}
+{"id": "f4", "prompt": "Question: What color is the GearOps release badge?\nAnswer:", "expected": "teal", "match": "contains"}
+{"id": "f5", "prompt": "Question: What is the name of the GearOps build robot?\nAnswer:", "expected": "Sprocket", "match": "contains"}
+{"id": "f6", "prompt": "Question: Which city hosts the GearOps summit?\nAnswer:", "expected": "Lisbon", "match": "contains"}
+{"id": "f7", "prompt": "Question: How many days does GearOps keep build logs by default?\nAnswer:", "expected": "45", "match": "contains"}
+{"id": "f8", "prompt": "Question: What is the name of the GearOps mascot?\nAnswer:", "expected": "Otto", "match": "contains"}

@@ -1,0 +1,20 @@
+{"id":"t01","input":"I was charged twice for my subscription this month","expected":"billing"}
+{"id":"t02","input":"Need a refund for the annual plan","expected":"billing"}
+{"id":"t03","input":"Where can I download my invoice for March?","expected":"billing"}
+{"id":"t04","input":"The app crashes every time I open the settings page","expected":"bug_report"}
+{"id":"t05","input":"Getting an error 500 when uploading a file","expected":"bug_report"}
+{"id":"t06","input":"Export to CSV is broken and shows a blank file","expected":"bug_report"}
+{"id":"t07","input":"I cant log in after the password reset email","expected":"account_access"}
+{"id":"t08","input":"My account is locked and I need to sign in urgently","expected":"account_access"}
+{"id":"t09","input":"Two-factor codes are not arriving on my phone","expected":"account_access"}
+{"id":"t10","input":"Please add dark mode to the dashboard","expected":"feature_request"}
+{"id":"t11","input":"It would be great to have support for SSO","expected":"feature_request"}
+{"id":"t12","input":"I wish the report page had a weekly export","expected":"feature_request"}
+{"id":"t13","input":"What are your office hours?","expected":"other"}
+{"id":"t14","input":"Thanks, the team was very helpful","expected":"other"}
+{"id":"t15","input":"Do you have a partner program?","expected":"other"}
+{"id":"t16","input":"Payment failed with an error on checkout","expected":"billing"}
+{"id":"t17","input":"The login page freezes after I enter my password","expected":"bug_report"}
+{"id":"t18","input":"Can you reset my password?","expected":"account_access"}
+{"id":"t19","input":"My receipt shows the wrong price","expected":"billing"}
+{"id":"t20","input":"The mobile app fails to sync and throws an exception","expected":"bug_report"}

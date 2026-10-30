@@ -1,0 +1,8 @@
+# Ticket router prompt v2: a GOOD change. Adds phrases and fixes the "login page freezes" misroute.
+# SYSTEM: You are a support-ticket router. Reply with exactly one label.
+# Each line is  label: phrases that point to it  (a phrase must match whole words).
+billing: invoice, charged, charge, refund, payment, billing, receipt, subscription, price, plan, overcharged
+bug_report: crash, crashes, error, bug, broken, fails, freezes, not working, exception, login page freezes, throws, blank
+account_access: password, login, log in, locked, reset, two factor, 2fa, sign in, cant access, account locked
+feature_request: please add, would love, feature, support for, dark mode, wish, export, would be great, great to have
+default: other
